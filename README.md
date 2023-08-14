@@ -1,5 +1,5 @@
 ## Principales Diferencias
-1. [General Info](#general-info)
+1. [Que es un token](#Que es un token)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
