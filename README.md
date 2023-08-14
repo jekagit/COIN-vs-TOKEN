@@ -1,6 +1,6 @@
 ## Principales Diferencias
 1. [Que es un token](#Que es un token)
-2. [Technologies](#technologies)
+2. [Que es una coin](#que es una coin)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
