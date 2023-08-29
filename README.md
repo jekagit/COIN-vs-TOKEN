@@ -1,6 +1,6 @@
 ## Principales Diferencias?.
 1. [Que es un token?](#Que_es_un_token?)
-2. [Que es una coin](#que_es_una_coin)
+2. [Que es una coin?](#que_es_una_coin?)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
